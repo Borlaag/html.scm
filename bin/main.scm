@@ -1,4 +1,4 @@
-;; Standalone CLI, takes a .http.scm file and compiles it into a .http file
+;; Standalone CLI, takes a .html.scm file and compiles it into a .html file
 
 (use-modules (srfi srfi-37))
 
